@@ -1,6 +1,6 @@
 # Project 4 Hackathon
 
-# ![banner](https://git.generalassemb.ly/wangdj3/project-3/blob/master/assets/Banner.jpg)
+# ![banner](assets/Banner.jpg)
 ## Neural Network Mini-hackathon Fashion MNIST
 
 ---
@@ -30,10 +30,10 @@ We have built a computer model using neural networks to help us distinguish betw
 |8|Bag|
 |9|Ankle boot|
 
-# ![Model Fit convergence plot](https://git.generalassemb.ly/skibokate/project_44/blob/main/model3_ks.jpg)
+# ![Model Fit convergence plot](assets/model3_ks.jpg)
 Our best perfroming model had a validation accuracy of 90.81%.  
 
-# ![Final ConfusionMatrix](https://git.generalassemb.ly/skibokate/project_44/blob/main/cm3.jpg)
+# ![Final ConfusionMatrix](assets/cm3.jpg)
 The most common misclassification by the model is that it classifies 6:shirts as 0:T-shirt/top or 4:Coat, which is understandable, as these are all sleeved upper body garments for humans with similar overall shape.
 
 
@@ -126,10 +126,10 @@ Val_acc : .9013
 ## Primary Findings
 
 
-# ![Model Fit convergence plot](https://git.generalassemb.ly/skibokate/project_44/blob/main/model3_ks.jpg)
+# ![Model Fit convergence plot](assets/model3_ks.jpg)
 Our best perfroming model had a __________ accuracy of ______%.  
 
-# ![Final ConfusionMatrix](https://git.generalassemb.ly/skibokate/project_44/blob/main/cm3.jpg)
+# ![Final ConfusionMatrix](assets/cm3.jpg)
 The most common misclassification by the model is that it classifies 6:shirts as 0:T-shirt/top or 4:Coat, which is understandable, as these are all sleeved upper body garments for humans with similar overall shape.
 
 We ran several different models with different parameters for comparison.  Their performance is shown in the table and below:
